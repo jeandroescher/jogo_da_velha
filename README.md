@@ -1,10 +1,22 @@
-=== Sobre o jogo da velha ===
+			=== SOBRE O JOGO DA VELHA ===
 No século XIX, no Reino Unido, era comum as senhoras se reunirem para jogar noughts and crosses -
 zeros e cruzes, em uma tradução livre - enquanto bordavam e conversavam. Foi assim que o
 passatempo virou “jogo das velhas” e depois simplificado para jogo da velha[1]. 
 
-=== Que comecem os jogos! ===
+			=== QUE COMECEM OS JOGOS ===
 O jogo inicia com a exibição de um tabuleiro onde dois jogadores se desafiam em um jogo de inteligência e astúcia.
+Exemplo de tabuleiro:
+					||     ||
+					1  ||  2  ||  3
+					||     ||
+				=====||=====||=====
+					||     ||
+					4  ||  5  ||  6
+					||     ||
+				=====||=====||=====
+					||     ||
+					7  ||  8  ||  9
+					||     ||
 
 ===>>> Como jogar
 - Para efetuar a jogada, o jogador deve pressionar no teclado o número que deseja marcar com seu respectivo símbolo.
