@@ -90,21 +90,21 @@ class Program
     
     private static void PrintBoard()
     {
-        string coluna = ("     ||     ||     ");
-        string linha = ("=====||=====||=====");
-        string celula = ("||");
+        string column = ("     ||     ||     ");
+        string line = ("=====||=====||=====");
+        string cell = ("||");
 
         for (int i = 0; i < 9; i += 3)
         {
-            Console.WriteLine(coluna);
+            Console.WriteLine(column);
             PrintCell(options[i]);
-            Console.Write(celula);
+            Console.Write(cell);
             PrintCell(options[i + 1]);
-            Console.Write(celula);
+            Console.Write(cell);
             PrintCell(options[i + 2]);
             Console.WriteLine();
-            Console.WriteLine(coluna);
-            if (i < 6) Console.WriteLine(linha);
+            Console.WriteLine(column);
+            if (i < 6) Console.WriteLine(line);
         }
     }
 
