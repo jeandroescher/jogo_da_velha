@@ -5,6 +5,7 @@ passatempo virou “jogo das velhas” e depois simplificado para jogo da velha[
 
 === Que comecem os jogos! ===
 O jogo inicia com a exibição de um tabuleiro onde dois jogadores se desafiam em um jogo de inteligência e astúcia.
+
 Exemplo de tabuleiro:
        ||     ||
     1  ||  2  ||  3
