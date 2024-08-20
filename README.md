@@ -6,19 +6,6 @@ passatempo virou “jogo das velhas” e depois simplificado para jogo da velha[
 === Que comecem os jogos! ===
 O jogo inicia com a exibição de um tabuleiro onde dois jogadores se desafiam em um jogo de inteligência e astúcia.
 
-Exemplo de tabuleiro:
-       ||     ||
-    1  ||  2  ||  3
-       ||     ||
-  =====||=====||=====
-       ||     ||
-    4  ||  5  ||  6
-       ||     ||
-  =====||=====||=====
-       ||     ||
-    7  ||  8  ||  9
-       ||     ||
-
 ===>>> Como jogar
 - Para efetuar a jogada, o jogador deve pressionar no teclado o número que deseja marcar com seu respectivo símbolo.
 - O jogador 1 sempre será o primeiro a jogar e a cada número pressionado, o mesmo será substituído pela letra X na cor vermelha.
